@@ -36,7 +36,12 @@ h1 , h2 , h3 {
 //navbar styles
 .navbar {
     border:none;
-   
+    
+}
+
+.navbar-brand {
+    font-family:'Oswald', sans-serif;
+    font-weight:500;
 }
 //home styles
 .home-h1 {
